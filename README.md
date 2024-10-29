@@ -11,8 +11,7 @@ Cara menjalankan
 Program Details
 Programs
 Random Number Generator (latihan1.py)
-Sebuah program yang akan menggenerate angka random kurang dari 0.5 berdasarkan input user.![alt text](![image](https://github.com/user-attachments/assets/2ce81d01-d1b5-4ca0-ba67-9e88fe20b170)
-?raw=true)
+Sebuah program yang akan menggenerate angka random kurang dari 0.5 berdasarkan input user.![alt text](![?raw=true)
 
 
 
